@@ -15,4 +15,5 @@ ChatApp is a Java Android chat application, embodying the MVVM architecture for 
 
 ### Sending Messages 
 ![Screenshot 2024-01-25 012944](https://github.com/aks700/ChatApp/assets/120315243/7fe67cd1-6480-4682-b47f-9e379655b061)
+<br>
 ![Screenshot 2024-01-25 013156](https://github.com/aks700/ChatApp/assets/120315243/68676031-d682-4942-8320-b820dd9e3950)
